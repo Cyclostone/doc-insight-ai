@@ -1,4 +1,4 @@
-# 📄 End-to-End-Doc-QnA
+# 📄 Doc-Insight-AI
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ## 🌟 Introduction
 
-End-to-End-Doc-QnA is an AI-powered document question answering system. It allows users to upload documents and ask questions about their content, receiving accurate, context-aware answers. Built with FastAPI and Docker, this project is designed for extensibility and ease of deployment.
+Doc-Insight-AI is an AI-powered document question answering system. It allows users to upload documents and ask questions about their content, receiving accurate, context-aware answers. Built with FastAPI and Docker, this project is designed for extensibility and ease of deployment.
 
 ## ✨ Key Features
 
